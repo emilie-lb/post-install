@@ -9,4 +9,3 @@ echo "Intalling dicord"
 sudo snap install discord --classic
 echo "Installing Visual Studio code"
 sudo snap install code --classic
-echo "Installing Microsoft Teams"
