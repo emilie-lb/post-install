@@ -5,9 +5,9 @@ Démarrage:
 pour le lancer => $ sudo ./post-install.sh
 
 Ce que fait le script: 
-Les commandes sont exécutées en mode superutilisateur (sudo)
-- 
-- installe Git
-- installe Python3_pip
-- installe Visual Studio code
-- installe Discord
+- recherche les mises à jours et les installe
+- installation de Git
+- installation de Python3_pip 
+- installation de Visual Studio code
+- installation de Discord
+remarque: Les commandes sont exécutées en mode superutilisateur (sudo)
